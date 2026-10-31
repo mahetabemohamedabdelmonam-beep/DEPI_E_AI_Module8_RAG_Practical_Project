@@ -1,0 +1,5 @@
+# HR Annual Leave Policy (DEMO — SYNTHETIC DATA)
+Policy ID: HR-001. Effective training date: 2026-01-01.
+Full-time employees who have completed one year of service receive 21 working days of annual leave in the sample company.
+Employees must submit leave requests using the HR portal. A direct manager reviews scheduling and HR confirms policy eligibility.
+This is a fictional policy made solely for a classroom demonstration, not actual employment guidance.

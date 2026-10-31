@@ -1,0 +1,3 @@
+Passwords must be at least 12 characters long and include letters,
+ numbers, and symbols.
+  Employees must change their passwords every 90 days and never share them with anyone.
